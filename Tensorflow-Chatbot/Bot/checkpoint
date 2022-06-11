@@ -1,2 +1,2 @@
-model_checkpoint_path: "/home/hoanguit/Downloads/Apichatbot/Tensorflow-Chatbot/Bot/model.tflearn"
-all_model_checkpoint_paths: "/home/hoanguit/Downloads/Apichatbot/Tensorflow-Chatbot/Bot/model.tflearn"
+model_checkpoint_path: "c:/Users/VanCuong/OneDrive/Desktop/pichatbotdjango/Tensorflow-Chatbot/Bot/model.tflearn"
+all_model_checkpoint_paths: "c:/Users/VanCuong/OneDrive/Desktop/pichatbotdjango/Tensorflow-Chatbot/Bot/model.tflearn"
